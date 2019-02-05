@@ -1,5 +1,5 @@
 # Python Final Project
-# * * Description: Number Guessing Game * *
+## Description: Number Guessing Game
 
 Initially, the user has to decide which mode is he/she going to play. There are three options: 
 * User Mode: the user plays against the computer. 
