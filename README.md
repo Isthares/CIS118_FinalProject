@@ -10,8 +10,8 @@ picks a number between 1 and 100, and the user has to guess that number. The las
 the game.
 
 
-* First Scenario: User plays against the Computer
--------------------------------------------------
+* FIRST SCENARIO: User plays against the Computer
+-----------------------------------------------------
 The game offers three different game options: Easy Mode, Difficult Mode, and Challenging Mode. 
 It also offers the Exit option, just in case the user wants to come back to the first menu and 
 chose among User Mode, Computer Mode, or Exit Game.
@@ -115,8 +115,8 @@ chose among User Mode, Computer Mode, or Exit Game.
         Computer Mode, or Exit Game).
 
 
-* Second Scenario: Computer plays against the User
---------------------------------------------------
+* SECOND SCENARIO: Computer plays against the User
+------------------------------------------------------
 o   The game offers two different game options: play or exit. In the second case, an exit message is shown 
     and the user is addressed to the first menu (User Mode, Computer Mode, or Exit Game). In the first case, 
     the user chose the number that the computer has to guess. If the number entered is not correct, a message 
