@@ -1,4 +1,4 @@
-# CIS118_FinalProject
+# Python FinalProject
 # Description: Number Guessing Game
 
 Initially, the user has to decide which mode is he/she going to play. There are two options: 
